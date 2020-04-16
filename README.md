@@ -13,4 +13,5 @@ Please proceed with the following steps:
 * Once you are done writing a query add a demonstration case to the 
   above `model_queries.rb` file.
 * Make sure you add, commit and push your changes.
+Veronica Guzman and Santiago Leon
 
